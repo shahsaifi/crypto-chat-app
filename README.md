@@ -1,4 +1,4 @@
-# Cryptography Coursework-2 Project [chatApp]
+# Cryptography Coursework Project [chatApp]
 
 ---
 It is a chat application that demonstrates asymmetric and symmetric encryption.
